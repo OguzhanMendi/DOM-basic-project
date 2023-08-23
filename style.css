@@ -1,0 +1,18 @@
+/* body{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.wrapper>ul>li{
+   list-style: none;
+   padding: 0.75rem;
+   font-size: large;
+   
+} */
